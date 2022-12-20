@@ -1,0 +1,18 @@
+.second_choice:hover{
+    background-color: rgb(210, 237, 240);
+}
+.wo_btn:hover{
+background-color: white;
+color: black;
+}
+
+.wo_btn:active{
+    background-color: white;
+    color: black;
+    }
+
+ .foter{
+    width: 100px;
+ }
+
+ 
